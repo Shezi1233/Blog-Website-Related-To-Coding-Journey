@@ -115,7 +115,7 @@ const BlogList = () => {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6">
       {blogData.map((blog) => (
-        <Link href={`/products/${blog.id}`}>
+        <Link href={`/products/${blog.id}`} key={blog.id}>
         <BlogCard
           key={blog.id}
           title={blog.title}

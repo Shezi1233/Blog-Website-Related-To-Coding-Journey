@@ -19,12 +19,12 @@ const AboutPage = () => {
           <div className="md:max-w-xl">
             <h1 className="text-4xl font-semibold text-gray-900 mb-4">About Me</h1>
             <p className="text-lg text-gray-700 mb-4">
-              Hey there! I'm <strong>Malik Shahzad</strong> a passionate web developer and tech enthusiast.
-              My journey into the world of web development began a few years ago, and since then, Ive been
+              Hey there! Im <strong>Malik Shahzad</strong> a passionate web developer and tech enthusiast.
+              My journey into the world of web development began a few years ago and since then Ive been
               fascinated by the endless possibilities of creating intuitive and beautiful websites.
             </p>
             <p className="text-lg text-gray-700 mb-4">
-              Through this blog I aim to share my knowledge, experiences, and tips on web development,
+              Through this blog I aim to share my knowledge, experiences, and tips on web development
               covering topics like HTML CSS JavaScript React and more. Whether youre a beginner or an
               advanced developer my goal is to help you grow your skills and stay updated with the latest trends
               in the tech world.
