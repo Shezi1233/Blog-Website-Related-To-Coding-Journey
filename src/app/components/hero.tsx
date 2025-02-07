@@ -19,7 +19,7 @@ const Hero = () => {
        <TypewriterComponent/>
       </h1>
       <p className="mb-8 leading-relaxed">
-      Join me on a journey through web development, where we explore everything from the basics of HTML to advanced JavaScript and modern frameworks. Whether you're a beginner or an expert, this blog has something for everyone!
+      Join me on a journey through web development where we explore everything from the basics of HTML to advanced JavaScript and modern frameworks. Whether youre a beginner or an expert this blog has something for everyone!
       </p>
       <div className="flex justify-center">
         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
