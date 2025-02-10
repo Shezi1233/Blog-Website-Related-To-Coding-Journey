@@ -60,10 +60,10 @@ const Mainpage = () => {
                     STEP 2
                   </h2>
                   <p className="leading-relaxed">
-                    Dedicate at least 20–30 minutes daily to practice. Speak,
-                    write, read, and listen to the language consistently.
-                    Incorporate flashcards, language exercises, or journaling to
-                    reinforce what you've learned.
+                    Dedicate at least 20–30 minutes daily to practice. Speak
+                    write read and listen to the language consistently.
+                    Incorporate flashcards language exercises or journaling to
+                    reinforce what youre learned.
                   </p>
                 </div>
               </div>
@@ -149,8 +149,8 @@ const Mainpage = () => {
                     FINISH
                   </h2>
                   <p className="leading-relaxed">
-                    Once you've mastered the basics and built confidence, polish
-                    your skills: Take advanced courses or certification tests.
+                    Once youre mastered the basics and built confidence polish
+                    your skills Take advanced courses or certification tests.
                     Travel to regions where the language is spoken to deepen
                     cultural understanding. Use the language regularly to retain
                     fluency.
