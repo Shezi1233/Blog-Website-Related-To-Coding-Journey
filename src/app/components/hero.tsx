@@ -3,11 +3,12 @@ import { motion } from 'framer-motion'
 import React from 'react'
 import { fadeIn } from './variants'
 import TypewriterComponent from './typewriter'
+import Link from 'next/link'
 
 const Hero = () => {
   return (
      <div>
-       <section className="text-gray-600 bg-gray-200 body-font">
+       <section className="text-gray-600 bg-gray-900 body-font">
   <motion.div 
    variants={fadeIn("left",0.2)}
         initial = "hidden"
@@ -22,9 +23,11 @@ const Hero = () => {
       Join me on a journey through web development where we explore everything from the basics of HTML to advanced JavaScript and modern frameworks. Whether youre a beginner or an expert this blog has something for everyone!
       </p>
       <div className="flex justify-center">
+        <Link href="/Blogs">
         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
           New Blogs
         </button>
+        </Link>
       </div>
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -36,7 +39,6 @@ const Hero = () => {
     </div>
   </motion.div>
 </section>
-
      </div>
   )
 }

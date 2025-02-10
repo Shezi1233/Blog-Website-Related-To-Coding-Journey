@@ -9,7 +9,7 @@ const AboutPage = () => {
           {/* Profile Image */}
           <div className="flex-shrink-0">
             <img
-              src="/images/profile.jpg" // Replace with your image path
+              src="/images/about.jpg" // Replace with your image path
               alt="Profile"
               className="w-48 h-48 rounded-full object-cover"
             />

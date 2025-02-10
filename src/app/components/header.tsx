@@ -29,9 +29,9 @@ export const Header = () => {
           } md:flex space-x-8 items-center text-lg`}
         >
           <a href="/" className="hover:text-gray-400">Home</a>
-          <a href="/about" className="hover:text-gray-400">About</a>
+          <a href="/About" className="hover:text-gray-400">About</a>
           <a href="/contact" className="hover:text-gray-400">Contact</a>
-          <a href="/blogs" className="hover:text-gray-400">Blogs</a>
+          <a href="/Blogs" className="hover:text-gray-400">Blogs</a>
         </nav>
       </div>
 
